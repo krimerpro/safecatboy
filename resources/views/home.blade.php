@@ -132,7 +132,7 @@
               <!-- Headline & Description -->
               <h2><span class="font-weight-200">We're launching our</span><br>new Website</h2>
 
-              <p>We're coming soon! Awesome template to present your future product or service.<br>We're
+              <p>We're coming soon! Safe Cat Boy all over the world!<br>We're
                 working hard to give you the best experience!<br>
               </p>
               <!-- /End Headline & Description -->
