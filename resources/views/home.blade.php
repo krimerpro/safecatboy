@@ -151,7 +151,7 @@
                 Telegram Official
               </a>
               <a class="btn btn-border-white show-info"
-                 role="button" href="https://poocoin.app/tokens/" target="_blank">
+                 role="button" href="https://poocoin.app/tokens/0x558B2329951e22DF2A3de8261bfeC1AE2623dFA6" target="_blank">
                 Chart
               </a>
             </div>
