@@ -147,7 +147,7 @@
             <!-- Buttons -->
             <div class="p-t-b-15 btn-row">
               <a class="btn btn-border-white show-info"
-                 role="button" href="https://t.me/ShibaKingCoin" target="_blank">
+                 role="button" href="https://t.me/SafeCatBoyPortal" target="_blank">
                 Telegram Official
               </a>
               <a class="btn btn-border-white show-info"
